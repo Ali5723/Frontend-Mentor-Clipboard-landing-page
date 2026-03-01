@@ -156,7 +156,7 @@ p {
 
 /* Start body */
 body {
-  font-family: "Bai Jamjuree";
+  font-family: "Bai Jamjuree", sans-serif;
   text-align: center;
   background-image: url("../assets/images/bg-header-mobile.png");
   background-repeat: no-repeat;
